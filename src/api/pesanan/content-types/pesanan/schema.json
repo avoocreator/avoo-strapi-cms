@@ -1,0 +1,50 @@
+{
+  "kind": "collectionType",
+  "collectionName": "pesanans",
+  "info": {
+    "singularName": "pesanan",
+    "pluralName": "pesanans",
+    "displayName": "Pesanan"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "kontak_wa": {
+      "type": "string",
+      "maxLength": 20,
+      "required": true
+    },
+    "email": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "layanan": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "kebutuhan": {
+      "type": "text",
+      "required": true
+    },
+    "budget": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "deadline": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "referensi": {
+      "type": "string",
+      "maxLength": 255
+    }
+  }
+}

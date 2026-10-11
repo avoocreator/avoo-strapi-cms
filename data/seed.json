@@ -1,0 +1,744 @@
+{
+  "project": [
+    {
+      "number": "01",
+      "title_id": "SMAN 1 Kraksaan — Ekosistem Digital",
+      "title_en": "SMAN 1 Kraksaan — Digital Ecosystem",
+      "category_id": "Pengembangan Web",
+      "category_en": "Web Development",
+      "description_id": "Redesign total website sekolah untuk kompetisi JHIC 2.0: dari profil statis menjadi ekosistem digital dengan dashboard admin, analitik, dan asisten AI terintegrasi.",
+      "description_en": "A complete school website redesign for the JHIC 2.0 competition: turning a static profile site into a digital ecosystem with an admin dashboard, analytics, and an integrated AI assistant.",
+      "tags": [
+        "Next.js",
+        "Tailwind CSS",
+        "Framer Motion",
+        "Recharts"
+      ],
+      "status": "berjalan",
+      "year": "2026",
+      "link": "https://github.com/avoocreator/sman1kraksaan-web"
+    },
+    {
+      "number": "02",
+      "title_id": "Matura Robo Tech",
+      "title_en": "Matura Robo Tech",
+      "category_id": "Teknologi Kreatif",
+      "category_en": "Creative Technology",
+      "description_id": "Kontribusi di divisi R&D — eksplorasi robotika dan sistem interaktif, dari prototipe elektronik sampai dokumentasi teknis yang rapi.",
+      "description_en": "Contributing in the R&D division — exploring robotics and interactive systems, from electronic prototypes to clean technical documentation.",
+      "tags": [
+        "IoT",
+        "Arduino",
+        "R&D"
+      ],
+      "status": "berjalan",
+      "year": "2026",
+      "link": null
+    },
+    {
+      "number": "03",
+      "title_id": "Avoo Creator Portfolio",
+      "title_en": "Avoo Creator Portfolio",
+      "category_id": "Pengembangan Web",
+      "category_en": "Web Development",
+      "description_id": "Website yang sedang kamu lihat ini — dibangun dengan Next.js, Tailwind, dan maskot orisinal sebagai identitas visual utama, lengkap dengan CMS & form pemesanan.",
+      "description_en": "The site you're looking at — built with Next.js, Tailwind, and an original mascot as the main visual identity, complete with a CMS & order form.",
+      "tags": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Framer Motion"
+      ],
+      "status": "selesai",
+      "year": "2026",
+      "link": null
+    },
+    {
+      "number": "04",
+      "title_id": "Verba — Bank Kosakata Inggris",
+      "title_en": "Verba — English Vocabulary Bank",
+      "category_id": "Pengembangan Web",
+      "category_en": "Web Development",
+      "description_id": "Bank kosakata Bahasa Inggris interaktif untuk latihan mandiri — dirancang agar terasa ringan dipakai sehari-hari, dengan sistem pengulangan cerdas dan progres yang terlacak.",
+      "description_en": "An interactive English vocabulary bank for self-practice — designed to feel light for daily use, with smart repetition and trackable progress.",
+      "tags": [
+        "JavaScript",
+        "UI/UX"
+      ],
+      "status": "konsep",
+      "year": "2026",
+      "link": null
+    },
+    {
+      "number": "05",
+      "title_id": "Aplikasi Web Manajemen Kas",
+      "title_en": "Cash Management Web App",
+      "category_id": "Pengembangan Web",
+      "category_en": "Web Development",
+      "description_id": "Aplikasi pencatatan dan pemantauan arus kas sederhana untuk kebutuhan organisasi kecil — laporan otomatis, kategori fleksibel, dan ringkasan yang mudah dibaca.",
+      "description_en": "A simple cash-flow recording and monitoring app for small organizations — automatic reports, flexible categories, and easy-to-read summaries.",
+      "tags": [
+        "React",
+        "TypeScript"
+      ],
+      "status": "konsep",
+      "year": "2026",
+      "link": null
+    },
+    {
+      "number": "06",
+      "title_id": "Proyek Monitoring IoT",
+      "title_en": "IoT Monitoring Project",
+      "category_id": "Teknologi Kreatif",
+      "category_en": "Creative Technology",
+      "description_id": "Sistem pemantauan berbasis sensor dengan dashboard real-time — eksperimen menyambungkan perangkat keras ke web, dari wiring sampai visualisasi data.",
+      "description_en": "A sensor-based monitoring system with a real-time dashboard — an experiment in connecting hardware to the web, from wiring to data visualization.",
+      "tags": [
+        "IoT",
+        "Arduino",
+        "Data"
+      ],
+      "status": "riset",
+      "year": "2026",
+      "link": null
+    }
+  ],
+  "service": [
+    {
+      "number": "01",
+      "slug": "website-development",
+      "title_id": "Pengembangan Website",
+      "title_en": "Website Development",
+      "description_id": "Bangun website dari nol — landing page, portfolio, atau sistem sederhana yang siap dipakai dan mudah dikembangkan.",
+      "description_en": "Build a website from scratch — landing pages, portfolios, or simple systems that are ready to use and easy to extend.",
+      "outputs": [
+        {
+          "id": "Frontend responsif semua perangkat",
+          "en": "Responsive frontend on all devices"
+        },
+        {
+          "id": "Struktur kode rapi & terdokumentasi",
+          "en": "Clean, documented code structure"
+        },
+        {
+          "id": "Siap dikembangkan ke backend",
+          "en": "Ready to extend with a backend"
+        },
+        {
+          "id": "Deploy ke hosting pilihanmu",
+          "en": "Deployed to your preferred hosting"
+        }
+      ],
+      "icon": "code",
+      "duration_id": "1–4 minggu",
+      "duration_en": "1–4 weeks"
+    },
+    {
+      "number": "02",
+      "slug": "ui-ux-design",
+      "title_id": "Desain UI/UX",
+      "title_en": "UI/UX Design",
+      "description_id": "Rancang alur dan tampilan yang masuk akal buat pengguna, bukan cuma cantik di mockup.",
+      "description_en": "Design flows and looks that make sense for users — not just pretty mockups.",
+      "outputs": [
+        {
+          "id": "Wireframe & prototype interaktif",
+          "en": "Wireframes & interactive prototype"
+        },
+        {
+          "id": "Design system dasar",
+          "en": "Basic design system"
+        },
+        {
+          "id": "Handoff siap untuk development",
+          "en": "Developer-ready handoff"
+        },
+        {
+          "id": "Rekomendasi perbaikan alur",
+          "en": "Flow improvement recommendations"
+        }
+      ],
+      "icon": "pen",
+      "duration_id": "3–10 hari",
+      "duration_en": "3–10 days"
+    },
+    {
+      "number": "03",
+      "slug": "graphic-design",
+      "title_id": "Desain Grafis",
+      "title_en": "Graphic Design",
+      "description_id": "Aset visual untuk kebutuhan digital — dari sosial media sampai materi presentasi, konsisten dengan identitasmu.",
+      "description_en": "Visual assets for digital needs — from social media to presentation materials, consistent with your identity.",
+      "outputs": [
+        {
+          "id": "Visual sosial media (feed & story)",
+          "en": "Social media visuals (feed & story)"
+        },
+        {
+          "id": "Poster & materi cetak",
+          "en": "Posters & print materials"
+        },
+        {
+          "id": "Ikon & ilustrasi sederhana",
+          "en": "Icons & simple illustrations"
+        },
+        {
+          "id": "File sumber yang bisa diedit",
+          "en": "Editable source files"
+        }
+      ],
+      "icon": "palette",
+      "duration_id": "1–7 hari",
+      "duration_en": "1–7 days"
+    },
+    {
+      "number": "04",
+      "slug": "presentation-design",
+      "title_id": "Desain Presentasi",
+      "title_en": "Presentation Design",
+      "description_id": "Slide yang enak dilihat dan enak dipresentasikan — untuk lomba, riset, atau pitching bisnis.",
+      "description_en": "Slides that look good and present well — for competitions, research, or business pitching.",
+      "outputs": [
+        {
+          "id": "Deck presentasi siap pakai",
+          "en": "Ready-to-use slide deck"
+        },
+        {
+          "id": "Struktur cerita yang jelas",
+          "en": "Clear narrative structure"
+        },
+        {
+          "id": "Template siap edit",
+          "en": "Editable templates"
+        },
+        {
+          "id": "Tips penyampaian singkat",
+          "en": "Quick delivery tips"
+        }
+      ],
+      "icon": "presentation",
+      "duration_id": "2–6 hari",
+      "duration_en": "2–6 days"
+    },
+    {
+      "number": "05",
+      "slug": "branding-support",
+      "title_id": "Dukungan Branding",
+      "title_en": "Branding Support",
+      "description_id": "Bantu bentuk identitas visual awal — logo sederhana, palet warna, dan panduan dasar penggunaannya.",
+      "description_en": "Shape your initial visual identity — a simple logo, color palette, and basic usage guidelines.",
+      "outputs": [
+        {
+          "id": "Logo & wordmark",
+          "en": "Logo & wordmark"
+        },
+        {
+          "id": "Palet warna & tipografi",
+          "en": "Color palette & typography"
+        },
+        {
+          "id": "Panduan penggunaan dasar",
+          "en": "Basic usage guidelines"
+        },
+        {
+          "id": "File siap untuk digital & cetak",
+          "en": "Files ready for digital & print"
+        }
+      ],
+      "icon": "sparkles",
+      "duration_id": "5–10 hari",
+      "duration_en": "5–10 days"
+    },
+    {
+      "number": "06",
+      "slug": "interactive-prototype",
+      "title_id": "Prototipe Interaktif",
+      "title_en": "Interactive Prototype",
+      "description_id": "Prototipe interaktif untuk menguji ide sebelum dibangun penuh — web atau perangkat IoT sederhana.",
+      "description_en": "Interactive prototypes to test ideas before full builds — web or simple IoT devices.",
+      "outputs": [
+        {
+          "id": "Prototype klik-jalan",
+          "en": "Clickable working prototype"
+        },
+        {
+          "id": "Demo perangkat sederhana",
+          "en": "Simple device demo"
+        },
+        {
+          "id": "Dokumentasi cara pakai",
+          "en": "Usage documentation"
+        },
+        {
+          "id": "Rekomendasi langkah lanjut",
+          "en": "Next-step recommendations"
+        }
+      ],
+      "icon": "cpu",
+      "duration_id": "1–3 minggu",
+      "duration_en": "1–3 weeks"
+    }
+  ],
+  "expertise-group": [
+    {
+      "group_id": "development",
+      "title_id": "Web Development",
+      "title_en": "Web Development",
+      "description_id": "Membangun antarmuka dan sistem yang jalan, bukan sekadar mockup.",
+      "description_en": "Building interfaces and systems that actually run — not just mockups.",
+      "long_description_id": "Dari landing page sampai aplikasi web dengan dashboard — ditulis dengan struktur kode rapi, responsif di semua layar, dan siap dikembangkan lebih lanjut. Spesialis di ekosistem React/Next.js dengan animasi yang halus tapi tidak mengganggu.",
+      "long_description_en": "From landing pages to web apps with dashboards — written with clean code structure, responsive on every screen, and ready to grow further. Specialized in the React/Next.js ecosystem with smooth but non-intrusive animations.",
+      "skills": [
+        {
+          "name": "React & Next.js",
+          "level": 82
+        },
+        {
+          "name": "TypeScript",
+          "level": 76
+        },
+        {
+          "name": "Tailwind CSS",
+          "level": 88
+        },
+        {
+          "name": "UI Implementation",
+          "level": 80
+        }
+      ],
+      "tools": [
+        "vscode",
+        "github",
+        "git",
+        "nextdotjs",
+        "react",
+        "typescript",
+        "tailwindcss",
+        "vercel"
+      ]
+    },
+    {
+      "group_id": "design",
+      "title_id": "Visual Design",
+      "title_en": "Visual Design",
+      "description_id": "Menerjemahkan ide jadi visual yang punya sistem, bukan tempelan.",
+      "description_en": "Turning ideas into visuals with a system — not sticker-on aesthetics.",
+      "long_description_id": "Mulai dari graphic design untuk sosial media sampai identitas visual yang konsisten. Setiap desain dibangun di atas grid, tipografi, dan palet yang punya alasan — bukan asal cantik. Terbiasa bekerja dari brief kasar sampai final file yang siap pakai.",
+      "long_description_en": "From social media graphics to consistent visual identity. Every design is built on a grid, typography, and a palette with a reason behind it — not just decoration. Comfortable working from rough briefs to ready-to-use final files.",
+      "skills": [
+        {
+          "name": "Graphic Design",
+          "level": 90
+        },
+        {
+          "name": "Layout & Typography",
+          "level": 84
+        },
+        {
+          "name": "Branding Dasar",
+          "level": 74
+        },
+        {
+          "name": "Social Media Kit",
+          "level": 86
+        }
+      ],
+      "tools": [
+        "figma",
+        "photoshop",
+        "illustrator",
+        "canva",
+        "framer"
+      ]
+    },
+    {
+      "group_id": "creative-tech",
+      "title_id": "Teknologi Kreatif",
+      "title_en": "Creative Technology",
+      "description_id": "Menyambungkan kode dengan perangkat fisik dan interaksi nyata.",
+      "description_en": "Connecting code with physical devices and real-world interaction.",
+      "long_description_id": "Eksperimen di persimpangan hardware dan software: prototipe IoT, sensor, dan instalasi interaktif. Di divisi R&D robotika, terbiasa menerjemahkan ide jadi rangkaian, kode, dan dokumentasi yang bisa diulang orang lain.",
+      "long_description_en": "Experiments at the intersection of hardware and software: IoT prototypes, sensors, and interactive installations. In the robotics R&D division, used to translating ideas into circuits, code, and documentation others can reproduce.",
+      "skills": [
+        {
+          "name": "Prototyping IoT",
+          "level": 70
+        },
+        {
+          "name": "Arduino & Elektronik",
+          "level": 72
+        },
+        {
+          "name": "Integrasi Sensor",
+          "level": 64
+        }
+      ],
+      "tools": [
+        "arduino",
+        "raspberrypi",
+        "espressif",
+        "platformio"
+      ]
+    },
+    {
+      "group_id": "research",
+      "title_id": "Riset & Problem Solving",
+      "title_en": "Research & Problem Solving",
+      "description_id": "Mikir terstruktur sebelum membangun, biar hasilnya nggak asal jalan.",
+      "description_en": "Thinking in structure before building, so results don't just accidentally work.",
+      "long_description_id": "Setiap proyek dimulai dari pertanyaan yang benar: siapa penggunanya, apa masalahnya, apa ukuran berhasilnya. Terbiasa menyusun referensi, membandingkan pendekatan, dan mendokumentasikan keputusan supaya eksperimen tidak berhenti jadi eksperimen.",
+      "long_description_en": "Every project starts with the right questions: who is the user, what's the problem, what does success look like. Used to compiling references, comparing approaches, and documenting decisions so experiments don't stay experiments.",
+      "skills": [
+        {
+          "name": "Technical Writing",
+          "level": 78
+        },
+        {
+          "name": "Analisis & Validasi Ide",
+          "level": 70
+        },
+        {
+          "name": "Dokumentasi",
+          "level": 80
+        }
+      ],
+      "tools": [
+        "googlescholar",
+        "notion",
+        "googlesheets",
+        "obsidian"
+      ]
+    }
+  ],
+  "experience-item": [
+    {
+      "year": "2026",
+      "title_id": "JHIC 2.0 — Web Development",
+      "title_en": "JHIC 2.0 — Web Development",
+      "role_id": "Frontend Developer, Tim Utusan Afumado",
+      "role_en": "Frontend Developer, Afumado Team",
+      "description_id": "Mengembangkan website profil SMAN 1 Kraksaan untuk babak Kick Off & Preliminary — dari prototipe Figma sampai frontend Next.js yang benar-benar jalan, lengkap dengan dashboard admin dan analitik.",
+      "description_en": "Built the SMAN 1 Kraksaan profile website for the Kick Off & Preliminary rounds — from a Figma prototype to a fully working Next.js frontend, complete with an admin dashboard and analytics.",
+      "category_id": "Kompetisi",
+      "category_en": "Competition",
+      "highlight": true
+    },
+    {
+      "year": "2026",
+      "title_id": "Matura Robo Tech",
+      "title_en": "Matura Robo Tech",
+      "role_id": "Anggota Divisi R&D",
+      "role_en": "R&D Division Member",
+      "description_id": "Ikut riset dan pengembangan di divisi R&D — dari eksperimen elektronik sampai dokumentasi teknis yang bisa diikuti anggota lain.",
+      "description_en": "Joining research & development in the R&D division — from electronics experiments to technical documentation other members can follow.",
+      "category_id": "Robotika",
+      "category_en": "Robotics",
+      "highlight": false
+    },
+    {
+      "year": "2025",
+      "title_id": "Mulai Avoo Creator",
+      "title_en": "Started Avoo Creator",
+      "role_id": "Developer & Graphic Designer",
+      "role_en": "Developer & Graphic Designer",
+      "description_id": "Membangun brand personal sebagai ruang eksperimen desain dan development di luar tugas sekolah — tempat semua proyek nyeleneh dicoba.",
+      "description_en": "Built a personal brand as a design & development playground outside school assignments — where every odd idea gets tried.",
+      "category_id": "Eksperimen Personal",
+      "category_en": "Personal Experiments",
+      "highlight": false
+    }
+  ],
+  "participation-category": [
+    {
+      "cat_id": "organisasi",
+      "number": "01",
+      "title_id": "Organisasi",
+      "title_en": "Organizations",
+      "description_id": "Komunitas dan organisasi sekolah yang diikuti.",
+      "description_en": "School communities and organizations I take part in.",
+      "items": [
+        {
+          "id": "mrt",
+          "title": {
+            "id": "Matura Robo Tech",
+            "en": "Matura Robo Tech"
+          },
+          "role": {
+            "id": "Anggota Divisi R&D",
+            "en": "R&D Division Member"
+          },
+          "description": {
+            "id": "Riset dan pengembangan di bidang robotika serta sistem interaktif — merancang, merakit, dan mendokumentasikan.",
+            "en": "Research and development in robotics and interactive systems — designing, assembling, and documenting."
+          },
+          "featured": true
+        },
+        {
+          "id": "ecc",
+          "title": {
+            "id": "ECC (English Conversation Club)",
+            "en": "ECC (English Conversation Club)"
+          },
+          "role": {
+            "id": "Anggota",
+            "en": "Member"
+          },
+          "description": {
+            "id": "Komunitas latihan percakapan Bahasa Inggris — melatih keberanian bicara dan kosa kata aktif.",
+            "en": "An English conversation practice community — training speaking confidence and active vocabulary."
+          },
+          "featured": true
+        },
+        {
+          "id": "nihongo",
+          "title": {
+            "id": "Nihongo Club",
+            "en": "Nihongo Club"
+          },
+          "role": {
+            "id": "Anggota",
+            "en": "Member"
+          },
+          "description": {
+            "id": "Komunitas belajar dan latihan Bahasa Jepang — dari huruf hiragana sampai percakapan sederhana.",
+            "en": "A Japanese language learning community — from hiragana letters to simple conversations."
+          },
+          "featured": true
+        }
+      ]
+    },
+    {
+      "cat_id": "kompetisi",
+      "number": "02",
+      "title_id": "Kompetisi",
+      "title_en": "Competitions",
+      "description_id": "Lomba dan kompetisi yang pernah diikuti.",
+      "description_en": "Contests and competitions I've joined.",
+      "items": [
+        {
+          "id": "jhic",
+          "title": {
+            "id": "JHIC 2.0 2026",
+            "en": "JHIC 2.0 2026"
+          },
+          "role": {
+            "id": "Web Development — Tim Utusan Afumado",
+            "en": "Web Development — Afumado Team"
+          },
+          "description": {
+            "id": "Kompetisi pengembangan website untuk SMAN 1 Kraksaan, babak Kick Off & Preliminary — bertanggung jawab di sisi frontend.",
+            "en": "A website development competition for SMAN 1 Kraksaan, Kick Off & Preliminary rounds — responsible for the frontend."
+          },
+          "link": "https://github.com/avoocreator/sman1kraksaan-web",
+          "featured": true
+        }
+      ]
+    },
+    {
+      "cat_id": "proyek",
+      "number": "03",
+      "title_id": "Proyek",
+      "title_en": "Projects",
+      "description_id": "Proyek pribadi maupun tim, dari yang sudah jadi sampai yang masih konsep.",
+      "description_en": "Personal and team projects, from shipped to still-in-concept.",
+      "items": [
+        {
+          "id": "proj-01",
+          "title": {
+            "id": "SMAN 1 Kraksaan — Ekosistem Digital",
+            "en": "SMAN 1 Kraksaan — Digital Ecosystem"
+          },
+          "role": {
+            "id": "Pengembangan Web",
+            "en": "Web Development"
+          },
+          "description": {
+            "id": "Redesign total website sekolah untuk kompetisi JHIC 2.0: dari profil statis menjadi ekosistem digital dengan dashboard admin, analitik, dan asisten AI terintegrasi.",
+            "en": "A complete school website redesign for the JHIC 2.0 competition: turning a static profile site into a digital ecosystem with an admin dashboard, analytics, and an integrated AI assistant."
+          },
+          "link": "https://github.com/avoocreator/sman1kraksaan-web",
+          "featured": true
+        },
+        {
+          "id": "proj-02",
+          "title": {
+            "id": "Matura Robo Tech",
+            "en": "Matura Robo Tech"
+          },
+          "role": {
+            "id": "Teknologi Kreatif",
+            "en": "Creative Technology"
+          },
+          "description": {
+            "id": "Kontribusi di divisi R&D — eksplorasi robotika dan sistem interaktif, dari prototipe elektronik sampai dokumentasi teknis yang rapi.",
+            "en": "Contributing in the R&D division — exploring robotics and interactive systems, from electronic prototypes to clean technical documentation."
+          },
+          "featured": true
+        },
+        {
+          "id": "proj-03",
+          "title": {
+            "id": "Avoo Creator Portfolio",
+            "en": "Avoo Creator Portfolio"
+          },
+          "role": {
+            "id": "Pengembangan Web",
+            "en": "Web Development"
+          },
+          "description": {
+            "id": "Website yang sedang kamu lihat ini — dibangun dengan Next.js, Tailwind, dan maskot orisinal sebagai identitas visual utama, lengkap dengan CMS & form pemesanan.",
+            "en": "The site you're looking at — built with Next.js, Tailwind, and an original mascot as the main visual identity, complete with a CMS & order form."
+          },
+          "featured": true
+        },
+        {
+          "id": "proj-04",
+          "title": {
+            "id": "Verba — Bank Kosakata Inggris",
+            "en": "Verba — English Vocabulary Bank"
+          },
+          "role": {
+            "id": "Pengembangan Web",
+            "en": "Web Development"
+          },
+          "description": {
+            "id": "Bank kosakata Bahasa Inggris interaktif untuk latihan mandiri — dirancang agar terasa ringan dipakai sehari-hari, dengan sistem pengulangan cerdas dan progres yang terlacak.",
+            "en": "An interactive English vocabulary bank for self-practice — designed to feel light for daily use, with smart repetition and trackable progress."
+          },
+          "featured": false
+        },
+        {
+          "id": "proj-05",
+          "title": {
+            "id": "Aplikasi Web Manajemen Kas",
+            "en": "Cash Management Web App"
+          },
+          "role": {
+            "id": "Pengembangan Web",
+            "en": "Web Development"
+          },
+          "description": {
+            "id": "Aplikasi pencatatan dan pemantauan arus kas sederhana untuk kebutuhan organisasi kecil — laporan otomatis, kategori fleksibel, dan ringkasan yang mudah dibaca.",
+            "en": "A simple cash-flow recording and monitoring app for small organizations — automatic reports, flexible categories, and easy-to-read summaries."
+          },
+          "featured": false
+        },
+        {
+          "id": "proj-06",
+          "title": {
+            "id": "Proyek Monitoring IoT",
+            "en": "IoT Monitoring Project"
+          },
+          "role": {
+            "id": "Teknologi Kreatif",
+            "en": "Creative Technology"
+          },
+          "description": {
+            "id": "Sistem pemantauan berbasis sensor dengan dashboard real-time — eksperimen menyambungkan perangkat keras ke web, dari wiring sampai visualisasi data.",
+            "en": "A sensor-based monitoring system with a real-time dashboard — an experiment in connecting hardware to the web, from wiring to data visualization."
+          },
+          "featured": false
+        }
+      ]
+    }
+  ],
+  "faq": [
+    {
+      "question_id": "Berapa lama pengerjaan satu proyek?",
+      "question_en": "How long does one project take?",
+      "answer_id": "Tergantung skala. Desain grafis biasanya 1–7 hari, landing page 1–2 minggu, dan website dengan sistem bisa 3–4 minggu. Estimasi pasti diberikan setelah brief dibahas — dan selalu diusahakan lebih cepat dari janji.",
+      "answer_en": "It depends on scale. Graphic design usually takes 1–7 days, a landing page 1–2 weeks, and a website with a system 3–4 weeks. A precise estimate is given after we discuss the brief — and I always aim to beat it."
+    },
+    {
+      "question_id": "Bagaimana skema harganya?",
+      "question_en": "How does pricing work?",
+      "answer_id": "Harga mengikuti kebutuhan dan kompleksitas. Setelah brief masuk, kamu dapat penawaran tetap sebelum pengerjaan dimulai — tanpa biaya tersembunyi. Untuk proyek kecil, pembayaran bisa full di akhir; proyek besar pakai pola DP 50%.",
+      "answer_en": "Pricing follows needs and complexity. Once your brief arrives, you get a fixed quote before work starts — no hidden fees. Small projects can be paid fully at the end; larger ones use a 50% down payment."
+    },
+    {
+      "question_id": "Bisa revisi kalau hasilnya belum cocok?",
+      "question_en": "Can I request revisions if it doesn't fit?",
+      "answer_id": "Bisa. Setiap layanan sudah termasuk 2–3 putaran revisi normal (bukan redesign total). Komunikasi selama pengerjaan juga terbuka, jadi arah hasilnya bisa dikoreksi di tengah jalan sebelum terlalu jauh.",
+      "answer_en": "Yes. Every service includes 2–3 rounds of normal revisions (not a full redesign). Communication stays open during the work, so direction can be corrected halfway before it goes too far."
+    },
+    {
+      "question_id": "Apakah bisa konsultasi dulu sebelum memesan?",
+      "question_en": "Can I consult before ordering?",
+      "answer_id": "Sangat bisa — malah dianjurkan. Ceritakan kebutuhanmu lewat form pemesanan atau langsung chat WhatsApp. Konsultasi awal gratis, termasuk rekomendasi pendekatan yang paling masuk akal untuk masalahmu.",
+      "answer_en": "Absolutely — it's even encouraged. Tell me what you need through the order form or a direct WhatsApp chat. The initial consultation is free, including recommendations on the most sensible approach for your problem."
+    },
+    {
+      "question_id": "Apa saja yang saya terima di akhir proyek?",
+      "question_en": "What do I receive at the end of a project?",
+      "answer_id": "Hasil akhir sesuai layanan (file sumber yang bisa diedit, kode yang terdokumentasi, atau website yang sudah tayang) plus panduan singkat cara pakai dan update. Tidak ada file yang disandera — milikmu sepenuhnya.",
+      "answer_en": "The final deliverable for your service (editable source files, documented code, or a live website) plus a short usage guide and handover. No file hostage-taking — it's all yours."
+    },
+    {
+      "question_id": "Bekerja dengan sekolah/organisasi bisa?",
+      "question_en": "Can you work with schools/organizations?",
+      "answer_id": "Bisa dan sudah terbiasa — sebagian besar proyek justru untuk kebutuhan sekolah, organisasi, dan komunitas. Bisa beradaptasi dengan alur persuratan dan kebutuhan laporan kalau diperlukan.",
+      "answer_en": "Yes, and I'm used to it — most projects are actually for schools, organizations, and communities. I can adapt to formal paperwork and reporting needs when required."
+    }
+  ],
+  "site-setting": {
+    "whatsapp": "6281234567890",
+    "email": "hello@avoocreator.dev",
+    "tagline_id": "Developer & graphic designer yang membangun hal yang jalan — bukan sekadar tampil bagus.",
+    "tagline_en": "Developer & graphic designer building things that run — not just look good.",
+    "location_id": "Jawa Timur, Indonesia",
+    "location_en": "East Java, Indonesia",
+    "availability_id": "Terbuka untuk proyek baru",
+    "availability_en": "Open for new projects",
+    "socials": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/avoocreator",
+        "handle": "@avoocreator"
+      },
+      {
+        "label": "Instagram",
+        "href": "https://instagram.com/avoocreator",
+        "handle": "@avoocreator"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com/in/avoocreator",
+        "handle": "Avoo Creator"
+      }
+    ],
+    "stats": [
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": {
+          "id": "Proyek dikerjakan",
+          "en": "Projects worked on"
+        }
+      },
+      {
+        "value": 4,
+        "suffix": "",
+        "label": {
+          "id": "Bidang keahlian",
+          "en": "Expertise areas"
+        }
+      },
+      {
+        "value": 15,
+        "suffix": "+",
+        "label": {
+          "id": "Perangkat dikuasai",
+          "en": "Tools mastered"
+        }
+      },
+      {
+        "value": 100,
+        "suffix": "%",
+        "label": {
+          "id": "Proyek selesai serah terima",
+          "en": "Projects delivered"
+        }
+      }
+    ]
+  }
+}

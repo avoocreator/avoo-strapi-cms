@@ -1,0 +1,56 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "number": {
+      "type": "string",
+      "maxLength": 10
+    },
+    "slug": {
+      "type": "string",
+      "maxLength": 60,
+      "required": true,
+      "unique": true
+    },
+    "title_id": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "title_en": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "description_id": {
+      "type": "text",
+      "required": true
+    },
+    "description_en": {
+      "type": "text"
+    },
+    "outputs": {
+      "type": "json"
+    },
+    "icon": {
+      "type": "string",
+      "maxLength": 30
+    },
+    "duration_id": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "duration_en": {
+      "type": "string",
+      "maxLength": 60
+    }
+  }
+}

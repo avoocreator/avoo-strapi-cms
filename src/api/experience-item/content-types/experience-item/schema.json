@@ -1,0 +1,57 @@
+{
+  "kind": "collectionType",
+  "collectionName": "experience_items",
+  "info": {
+    "singularName": "experience-item",
+    "pluralName": "experience-items",
+    "displayName": "Experience Item"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "year": {
+      "type": "string",
+      "maxLength": 20,
+      "required": true
+    },
+    "title_id": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "title_en": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "role_id": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "role_en": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "description_id": {
+      "type": "text",
+      "required": true
+    },
+    "description_en": {
+      "type": "text"
+    },
+    "category_id": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "category_en": {
+      "type": "string",
+      "maxLength": 60
+    },
+    "highlight": {
+      "type": "boolean",
+      "default": false
+    }
+  }
+}

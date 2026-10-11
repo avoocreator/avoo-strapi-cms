@@ -1,0 +1,45 @@
+{
+  "kind": "collectionType",
+  "collectionName": "participation_categories",
+  "info": {
+    "singularName": "participation-category",
+    "pluralName": "participation-categories",
+    "displayName": "Participation Category"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "cat_id": {
+      "type": "string",
+      "maxLength": 30,
+      "required": true,
+      "unique": true
+    },
+    "number": {
+      "type": "string",
+      "maxLength": 10
+    },
+    "title_id": {
+      "type": "string",
+      "maxLength": 120,
+      "required": true
+    },
+    "title_en": {
+      "type": "string",
+      "maxLength": 120
+    },
+    "description_id": {
+      "type": "text",
+      "required": true
+    },
+    "description_en": {
+      "type": "text"
+    },
+    "items": {
+      "type": "json",
+      "required": true
+    }
+  }
+}
